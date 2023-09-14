@@ -1,0 +1,6 @@
+browserstack-local
+setuptools
+selenium
+requests
+paver
+Appium-Python-Client
