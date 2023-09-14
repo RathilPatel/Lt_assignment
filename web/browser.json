@@ -1,0 +1,16 @@
+[
+  {
+    "build": "Assignment Project",
+    "name": "Test Browser 1",
+    "platformName": "Windows 10",
+    "browserName": "Chrome",
+    "browserVersion": "latest"
+    },
+    {
+      "build": "Assignment Project",
+      "name": "Test Browser 2",
+      "platformName": "Windows 10",
+      "browserName": "Firefox",
+      "browserVersion": "latest"
+    }
+   ]
